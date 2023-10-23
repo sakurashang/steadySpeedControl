@@ -25,8 +25,8 @@ def check_mkdir(path_prefix):
 
 
 if __name__ == "__main__":
-    cmd_v = 4
-    shiftLevel = 3
+    cmd_v = 5
+    shiftLevel = 10
     #1、车速（0-60） 2、前进（1前进，0空档，-1后退）4、导航模式（0、手动模式 1、扭矩2、自动模式）
     NAVI_cmd_list = [cmd_v, 1, 0, 2, 0, 0]  # v=3,前进挡，测试横纵向连通性
     #1、档位选择（#0-9 低档 10-20 中档 21-60 高档
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     #     data_record.data_record([time.time()] + msg_list)
 
 
-    path = r'imuRecord/10-16'
+    path = r'imuRecord/10-19/'
     record = classOfDataRecord2.DataRecord(path + "行驶时记录数据" +
                                           time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())) +
                                           ".csv")

@@ -2,7 +2,7 @@ import pandas as pd
 import math
 
 # 读取CSV文件
-data = pd.read_csv('../imuRecord/10-10/行驶时记录数据2023-10-10 11:07:50.csv')
+data = pd.read_csv('../imuRecord/10-16/果园—上坡4.csv')
 
 # 剔除前10秒（前67行数据）和 'v' 不为零的数据之前的零
 non_zero_indices = data[data['v'] != 0].index

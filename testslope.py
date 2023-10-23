@@ -1,8 +1,11 @@
 import math
 
-lateral_displacement = 41
+slpe_displacement = 230 * 0.98547
+#print(slpe_displacement)
 # 纵向位移
-longitudinal_displacement = 3.64
+longitudinal_displacement = 64.16 - 45.52
+lateral_displacement = math.sqrt(slpe_displacement ** 2 - longitudinal_displacement ** 2)
+#print(lateral_displacement)
 # 求坡度
 a = math.atan2(longitudinal_displacement, lateral_displacement)
 slope = a / math.pi * 180

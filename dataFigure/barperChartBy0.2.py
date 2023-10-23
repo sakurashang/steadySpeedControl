@@ -2,10 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 从第一个CSV文件中读取数据，跳过前120行
-data1 = pd.read_csv('../imuRecord/10-16/平地—速度5（1）.csv', skiprows=range(1, 200))
+data1 = pd.read_csv('../imuRecord/10-19/田地——速度7直线.csv', skiprows=range(1, 200))
 
 # 从第二个CSV文件中读取数据，跳过前120行
-data2 = pd.read_csv('../imuRecord/10-16/果园—下坡5.csv', skiprows=range(1, 200))
+data2 = pd.read_csv('../imuRecord/10-16/平地—速度7.csv', skiprows=range(1, 200))
 
 # 计算总行数
 total_data1 = len(data1)

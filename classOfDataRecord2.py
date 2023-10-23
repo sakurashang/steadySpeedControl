@@ -13,7 +13,7 @@ class DataRecord:
        # self.writer.writerow(['GPSWeek', 'GPSTime', 'imu_lon', 'imu_lat', 'imu_altitude', 'headingAngle', 'v',
        #                   'cmd_steering', 'cmd_v', 'imu_gps_state', 'imu_satellite_num', 'imu_warning', 'cmd_v','car_v','shiftLevel'])  # 写入表头
 
-        self.writer.writerow(['GPSWeek', 'GPSTime', 'imu_lon', 'imu_lat', 'imu_altitude', 'headingAngle', 'v', 'cmd_v',  'car_v', 'shiftLevel'])  # 写入表头
+        self.writer.writerow(['GPSWeek', 'GPSTime', 'imu_lon', 'imu_lat', 'imu_altitude', 'headingAngle', 'v', 'cmd_v',  'control_mode', 'shiftLevel'])  # 写入表头
     def __del__(self):
         self.csvfile.close()
 

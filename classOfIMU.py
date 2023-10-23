@@ -70,5 +70,6 @@ if __name__ == "__main__":
         str = imuInfo.split(',')
         imu_vehicle_speed = float(str[18]) * 3.6
         print(imu_vehicle_speed)
+        print(imuInfo)
 
 

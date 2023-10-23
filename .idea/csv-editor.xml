@@ -94,20 +94,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-14/行驶时记录数据2023-10-14 17:10:42.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-14/行驶时记录数据2023-10-14 17:16:50.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="/imuRecord/10-14/行驶时记录数据2023-10-14 17:30:03.csv">
           <value>
             <Attribute>
@@ -136,147 +122,35 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:05:20.csv">
+        <entry key="/imuRecord/10-16/平地—速度9.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:06:05.csv">
+        <entry key="/imuRecord/10-16/果园—上坡4.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:10:34.csv">
+        <entry key="/imuRecord/10-16/果园—上坡5.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:11:49.csv">
+        <entry key="/imuRecord/10-16/果园—下坡5.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:17:38.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:23:20.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:26:46.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:30:46.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:31:53.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:32:24.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:35:47.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:36:18.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:41:04.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 10:43:58.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 11:01:58.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 11:07:44.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 11:16:41.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 11:19:10.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 11:19:30.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 12:23:16.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/imuRecord/10-16行驶时记录数据2023-10-16 12:30:10.csv">
+        <entry key="/imuRecord/10-19/田地——速度8直线掉头.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
