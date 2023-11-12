@@ -1,11 +1,8 @@
 import os
 import time
-import sys
-import classOfDF2204
-import classOfDataRecord2
-from classOfDF2204 import Tractor
-import classOfTractorStatusDataRecord as classOfTractorStatusDataRecord
-from classOfIMU import Imu
+from component import classOfDataRecord2, classOfDF2204
+from component.classOfDF2204 import Tractor
+from component.classOfIMU import Imu
 
 def check_mkdir(path_prefix):
     """
@@ -60,7 +57,7 @@ if __name__ == "__main__":
 
     path = r'imuRecord/10-19/'
     record = classOfDataRecord2.DataRecord(path + "行驶时记录数据" +
-                                          time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())) +
+                                           time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())) +
                                           ".csv")
     tractor_recv = classOfDF2204.Tractor("recv")
     imu = Imu()

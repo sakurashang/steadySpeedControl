@@ -3,7 +3,7 @@
 """
 import serial
 import time
-import ll2xy
+from component import ll2xy
 
 portx = "/dev/ttyUSB0"
 #bps = 115200  # 10hz时，5hz时对应波特率
